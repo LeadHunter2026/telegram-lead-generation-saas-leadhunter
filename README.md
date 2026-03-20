@@ -1,6 +1,6 @@
 # 🚀 LeadHunter — Telegram Lead Generation Engine
 
-<img src="assets/avatar.png" width="120"/>
+<img src="assets/avatar.png" width="500"/>
 
 > Find clients before your competitors do
 
