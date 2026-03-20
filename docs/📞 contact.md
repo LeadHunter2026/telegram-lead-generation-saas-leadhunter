@@ -2,7 +2,7 @@
 
 For acquisition inquiries:
 
-- Email: your@email.com
-- Telegram: @yourusername
+
+- Telegram: @TgHuntOnline
 
 Response time: within 24 hours
