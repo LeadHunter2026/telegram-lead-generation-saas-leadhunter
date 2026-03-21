@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=LeadHunter2026&repo=telegram-lead-generation-saas-leadhunter)
 # 🚀 LeadHunter — High-Intent Lead Generation Engine
 
 > Find customers at the exact moment they are ready to buy.
